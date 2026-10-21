@@ -771,54 +771,67 @@ button, input, select, textarea {
   z-index: 1;
 }
 
-/* Dedicated Slide 1 (Green Living): Content moved down to bottom, keeping upper 65% picture clear */
+/* Dedicated Slide 1 (Green Living): Content positioned in Top-Left, leaving house and scenery open */
 .hero-carousel-slide[data-slide="0"] .hero-slide-bg {
-  background-position: center 36%;
-  filter: contrast(1.03) saturate(1.08) brightness(0.98);
+  background-position: 68% center;
+  filter: contrast(1.03) saturate(1.08) brightness(0.96);
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-overlay {
   position: absolute;
   inset: 0;
   z-index: 2;
-  background: linear-gradient(180deg, rgba(15, 23, 42, 0.28) 0%, rgba(15, 23, 42, 0.0) 30%, rgba(15, 23, 42, 0.22) 52%, rgba(15, 23, 42, 0.88) 96%);
+  background:
+    radial-gradient(ellipse at 18% 30%, rgba(15, 23, 42, 0.76) 0%, rgba(15, 23, 42, 0.45) 45%, rgba(15, 23, 42, 0) 75%),
+    linear-gradient(180deg, rgba(15, 23, 42, 0.35) 0%, rgba(15, 23, 42, 0) 35%, rgba(15, 23, 42, 0.62) 100%);
   pointer-events: none;
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-content {
-  justify-content: flex-end;
-  padding-bottom: clamp(6px, 1.2vh, 16px);
+  justify-content: space-between;
+  align-items: flex-start;
+  text-align: left;
+  padding-top: clamp(14px, 2.8vh, 32px);
+  padding-bottom: clamp(10px, 2vh, 20px);
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-lead-box {
-  margin-top: auto;
-  margin-bottom: clamp(10px, 1.6vh, 20px);
+  align-items: flex-start;
+  text-align: left;
+  margin: 0;
+  max-width: 660px;
+  padding: 0;
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-eyebrow {
-  margin-bottom: clamp(6px, 1vh, 12px);
-  padding: 4px 14px;
+  margin-bottom: clamp(10px, 1.8vh, 18px);
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-title {
-  font-size: clamp(24px, 3.8vw, 54px);
-  line-height: 1.12;
-  margin-bottom: clamp(6px, 1vh, 12px);
+  text-align: left;
+  font-size: clamp(28px, 4.2vw, 58px);
+  line-height: 1.1;
+  margin-bottom: clamp(10px, 1.6vh, 18px);
+  max-width: 640px;
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-subtitle {
-  font-size: clamp(12px, 1.15vw, 15px);
-  line-height: 1.45;
-  margin-bottom: clamp(10px, 1.5vh, 18px);
-  max-width: 680px;
+  text-align: left;
+  font-size: clamp(13px, 1.2vw, 15.5px);
+  line-height: 1.5;
+  margin-bottom: clamp(16px, 2.4vh, 24px);
+  max-width: 540px;
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-cta-group {
-  margin-bottom: clamp(4px, 0.8vh, 10px);
+  justify-content: flex-start;
+  margin-bottom: 0;
+  gap: 12px;
 }
 
 .hero-carousel-slide[data-slide="0"] .hero-bottom-dock {
-  margin-top: 0;
+  margin-top: auto;
+  width: 100%;
 }
 
 /* Clear, balanced hero overlay allowing background equipment/factory to be crisp and visible */
@@ -1589,30 +1602,48 @@ button, input, select, textarea {
     display: none;
   }
 
-  /* Slide 1 mobile adjustments: content at bottom */
+  /* Slide 1 mobile adjustments: Top-Left positioned */
   .hero-carousel-slide[data-slide="0"] .hero-content {
-    justify-content: flex-end;
-    padding-bottom: 8px;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: left;
+    padding-top: 14px;
+    padding-bottom: 12px;
   }
   .hero-carousel-slide[data-slide="0"] .hero-lead-box {
-    margin-top: auto;
-    margin-bottom: 8px;
+    align-items: flex-start;
+    text-align: left;
+    margin: 0;
+    max-width: 100%;
+  }
+  .hero-carousel-slide[data-slide="0"] .hero-eyebrow {
+    margin-bottom: 10px;
   }
   .hero-carousel-slide[data-slide="0"] .hero-title {
-    font-size: clamp(20px, 5.8vw, 28px);
+    text-align: left;
+    font-size: clamp(22px, 6.4vw, 32px);
     line-height: 1.15;
+    margin-bottom: 10px;
   }
   .hero-carousel-slide[data-slide="0"] .hero-subtitle {
-    font-size: 11px;
-    line-height: 1.4;
-    margin-bottom: 10px;
+    text-align: left;
+    font-size: 11.5px;
+    line-height: 1.45;
+    margin-bottom: 14px;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  .hero-carousel-slide[data-slide="0"] .hero-cta-group {
+    justify-content: flex-start;
+    gap: 8px;
+  }
   .hero-carousel-slide[data-slide="0"] .hero-slide-bg {
-    background-position: center 22%;
+    background-position: 72% center;
+  }
+  .hero-carousel-slide[data-slide="0"] .hero-overlay {
+    background: linear-gradient(180deg, rgba(15, 23, 42, 0.72) 0%, rgba(15, 23, 42, 0.38) 45%, rgba(15, 23, 42, 0.75) 100%);
   }
 }
 
