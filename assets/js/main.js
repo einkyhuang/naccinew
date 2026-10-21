@@ -826,7 +826,7 @@ function initHeroSlider() {
       const fill = pill.querySelector('.pill-bar-fill');
       if (fill) {
         fill.style.transition = 'none';
-        fill.style.width = '0%';
+        fill.style.height = '0%';
       }
     });
 
@@ -841,8 +841,8 @@ function initHeroSlider() {
     if (!fill) return;
 
     requestAnimationFrame(() => {
-      fill.style.transition = `width ${HERO_SLIDE_DURATION}ms linear`;
-      fill.style.width = '100%';
+      fill.style.transition = `height ${HERO_SLIDE_DURATION}ms linear`;
+      fill.style.height = '100%';
     });
   }
 
