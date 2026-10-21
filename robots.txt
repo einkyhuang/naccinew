@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naccius.com/sitemap.xml

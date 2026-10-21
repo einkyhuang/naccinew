@@ -1,0 +1,465 @@
+================ ABOUT ================
+About
+Home
+About
+About Us
+NACCI is committed to the research, development, manufacturing, and sales of power systems and energy storage systems, providing one-stop solutions.
+Vision & Mission
+Vision
+Energy Innovation
+Better Life
+Mission
+To help build a convenient and
+environmentally friendly lifestyle
+Values
+Innovation
+Focus
+Striving
+Cooperation
+Quality Policy
+Quality is the foundation of NACCI as well as the reason for us to be picked
+20+ Years of Dedication
+to New Energy Solutions
+Focus on innovation in energy from lead acid to lithium and fossil fuel to electricity, covering all living and working situations.
+Low-speed Vehicle batteries
+Industrial batteries
+Electric Motorcycle Batteries
+Electric Excavator/Port Machinery Battery Systems
+Residential Energy Storage Systems
+RV Energy Storage Systems
+All-Electric Truck APU Systems
+Marine Energy Storage Systems & Batteries
+Commercial & Industrial Energy Storage Systems
+Comprehensive R & D Capacities
+Outstanding independent R&D capacity in core areas and key components
+Design
+BMS design
+PACK design
+System design
+Industrial design
+Inverter design
+Software design
+R&D
+Module
+Simulation
+Automation
+Electrochemistry
+Electronic circuit
+Thermal management
+Professional R&D team from BMS, charger development and software development.
+Manufacturing Strength
+Advanced MES system
+Fully automatic production line
+IATF16949 system
+QC system
+By virtue of all this, RoyPow is capable of "end-to-end" integrated delivery, and makes our products out-perform industry norms.
+Comprehensive Testing
+Capabilities
+Equipped with high-precision measuring instruments and equipment with over 200 units in total Complied with international & North American standards, such as IEC/ ISO / UL, etc. Rigorous tests are carried out to ensure high a level of performance, reliability and safety
+Battery Cell Testing
+BMS Testing
+Charger Testing
+DC-DC Testing
+Hybrid Inverter Testing
+Battery System Testing
+Material Testing
+Energy Storage Testing
+Alternator Testing
+Nacci Global Marketing Share
+The capacity nacci delivered is up to 1.5GWh+
+
+================ CONTACT ================
+Contact Us
+Home
+Contact Us
+Contact nacci
+If you are interested in our products and want to know more details, please leave a message here, we will reply you as soon as we can.
+*We respect your confidentiality and all information are protected.
+
+================ FAQ ================
+FAQ
+Home
+FAQ
+FAQ
+常见问题解答
+Lithium-ion
+How safe are Lithium-Ion Batteries?
+Our LiFePO4 batteries are considered to be safe, non-flammable and non-hazardous for superior chemical and mechanical structure.
+They can also withstand harsh conditions, be it freezing cold, scorching heat or rough terrain. When subjected to hazardous events, such as collision or short-circuiting, they won’t explode or catch fire, significantly reducing any chance of harm. If you’re selecting a lithium battery and anticipate use in hazardous or unstable environments, LiFePO4 battery is likely be your best choice. It’s also worth mentioning that they are non-toxic, non-contaminating and contain no rare earth metals, making them environmentally conscious.
+Tristique parturient nulla ullamcorper at ullamcorper non orci iaculis neque augue.
+What is a BMS? What does it do and where is it located?
+BMS, short for Battery Management System, serves as a critical link between batteries and users, acting as a guardian for battery cells. Its core function is to shield cells from damage caused by common risks such as over-voltage, under-voltage, over-current, high temperatures, or external short circuits. When detecting unsafe operating conditions, the BMS promptly shuts off the battery to prevent harm to the cells. At RoyPow, all our batteries come equipped with a built-in BMS, ensuring comprehensive management and protection against these potential issues.
+Our forklift batteries take BMS technology a step further with a cutting-edge, innovative design tailored to safeguard lithium cells. This advanced BMS boasts a range of standout features:
+Remote Monitoring via OTA (Over-the-Air)
+: Enables real-time tracking and data analysis of battery status from a distance, facilitating proactive maintenance and troubleshooting.
+Intelligent Thermal Management
+: Regulates battery temperature to optimize performance and prevent overheating, ensuring stable operation even in demanding environments.
+Multi-Layered Protection Mechanisms
+: Includes dedicated protection switches for low voltage, over voltage, and short circuits, among other safeguards, creating a robust defense system against diverse operational risks.
+What is the life expectancy of the battery?
+Nacci batteries can be used around 3,500 life cycles. Battery design life is around 10 years, and we offer you 5 years warranty. Therefore, even though there is more upfront cost with a RoyPow LiFePO4 Battery, the upgrade saves you up to 70% battery cost over 5 years.
+Use tips
+What can I use a Lithium Battery for?
+Our lithium batteries find versatile applications across a wide range of scenarios, making them a reliable power solution for diverse needs. They are widely used in
+material handling and mobility equipment
+such as golf carts, forklifts, aerial work platforms, and floor cleaning machines, delivering consistent performance to keep operations running smoothly.
+With over 10 years of dedicated expertise in lithium battery technology, we have honed our professionalism in the critical field of replacing traditional lead-acid batteries with advanced lithium-ion alternatives. This experience ensures that our solutions are optimized for seamless integration, enhanced efficiency, and long-term reliability—addressing the limitations of lead-acid batteries while elevating overall performance.
+Beyond industrial and mobility uses, our batteries extend their utility to everyday and specialized needs: they serve as robust energy storage solutions for residential settings, helping households manage power supply efficiently, and can also reliably power truck air-conditioning systems, ensuring comfort during long hauls without draining the vehicle’s main battery. Whether for industrial operations, daily convenience, or energy management, our lithium batteries stand ready to deliver consistent, high-quality power.
+编辑
+分享
+Can you provide more details about the specific features and advantages of your lithium batteries?
+How does your company ensure the quality and reliability of its lithium batteries?
+Are there any safety certifications or standards that your lithium batteries meet?
+I want to convert to lithium iron phosphate batteries. What do I need to know?
+When it comes to battery replacement, several key factors demand careful consideration to ensure optimal performance and compatibility. First and foremost, you’ll need to evaluate
+capacity, power output, and physical size requirements
+to match your equipment’s specifications. Equally important is ensuring you have the correct charger—using RoyPow’s dedicated chargers, for instance, can unlock enhanced battery performance, maximizing efficiency and longevity.
+A notable advantage when upgrading from lead-acid to LiFePO4 batteries is the potential for significant downsizing: in many cases, you can reduce the battery size by up to 50% while maintaining the same runtime. This not only saves space but also simplifies installation. Additionally, weight considerations are crucial, especially for industrial equipment like forklifts. LiFePO4 batteries are substantially lighter than their lead-acid counterparts, which can improve equipment maneuverability, reduce wear on components, and even enhance operational safety.
+If you’re planning an upgrade and need guidance on selecting the perfect battery, our RoyPow technical support team is here to help. They’ll work with you to assess your needs, address any questions, and ensure you choose a solution that aligns seamlessly with your equipment and operational goals. Don’t hesitate to reach out—we’re committed to making your transition smooth and successful.
+Can it be used in cold weather?
+Our batteries can work down to -4°F(-20°C). With the self-heating function(optional), they can be recharged at low temperatures.
+Charging
+How do I charge a lithium battery?
+Our lithium ion technology uses the most advanced built-in battery protection system to prevent damage to the battery. It is kindly for you to choose the charger developed by RoyPow, so you can maximize your batteries safely.
+Can lithium ion batteries be charged anytime?
+Absolutely—one of the standout advantages of lithium-ion batteries is their flexibility in charging: they can be recharged at any time, without the risk of damage. This is a game-changing contrast to lead-acid batteries, which are prone to reduced lifespan or performance issues if subjected to frequent partial charges (often called “opportunity charging”).
+With lithium-ion batteries, opportunity charging becomes a practical and safe routine. For example, users can plug in the battery during a lunch break, a quick shift pause, or even short downtime to top up the charge—ensuring the battery stays sufficiently powered to finish the workday without dropping to critically low levels. This eliminates the need for strict, time-consuming full-charge cycles and minimizes downtime, making lithium-ion batteries ideal for busy, high-demand operations where consistent power availability is key. Whether it’s a forklift on a warehouse floor or a golf cart on the course, this flexibility keeps equipment running smoothly and efficiently.
+If convert to lithium batteries, is the charger changing needed?
+Please notice that our original lithium battery with our original charger can be more effective. Keep it in mind: If you still use your original lead-acid battery charger, it can’t charge our lithium battery. And with other chargers we can ‘t promise that the lithium battery can fully perform and whether it’s safe or not. Our technicians recommend you to use our original charger.
+Should I turn off the pack after each use?
+No. Only when You left the carts with several weeks or months, and we recommend keepping more than 5 bars when you turn off the "MAIN SWITCH" on the battery, it can be stored for up to 8 months.
+Supporting
+What are lithium ion battery energy storage systems?
+Battery energy storage systems (BESS) are advanced rechargeable battery solutions designed to capture, store, and deploy electrical energy on demand, serving as a versatile bridge between energy sources and end users.
+At their core, these systems collect surplus energy from renewable sources like solar arrays—capturing sunlight-generated power during peak daylight hours when production may exceed immediate needs—or draw from the electric grid during off-peak periods (when energy costs are often lower or grid demand is reduced). This stored energy is then readily available to power homes, businesses, or even critical equipment when needed most: for example, during evening hours when solar generation dips, during grid outages to ensure uninterrupted power, or to offset high energy usage during peak demand times, helping reduce utility costs.
+By enabling efficient energy storage and distribution, BESS not only enhances energy independence for homes and businesses but also supports grid stability, promotes the integration of renewable energy, and provides a reliable backup power solution—making them a key component of modern, sustainable energy ecosystems.
+Is a battery an energy storage device?
+everyday devices to large-scale industrial systems. Among them, lithium-ion batteries have emerged as a game-changer, boasting significantly superior energy density compared to traditional lead-acid batteries. This means they can store more energy in a smaller, lighter package—critical for applications where space and weight matter, from portable electronics to electric vehicles and renewable energy setups.
+Efficiency is another key strength of modern battery storage technology, particularly with newer lithium-ion systems, which achieve impressive efficiency rates ranging from 80% to over 90%. This high efficiency ensures minimal energy loss during the charging and discharging process, maximizing the usable energy extracted from stored power and making them far more cost-effective over time.
+Beyond individual or commercial use, battery systems play an increasingly vital rol
+
+================ WARRANTY ================
+Warranty
+Home
+Warranty
+Warranty Period
+For the battery, from the date of purchase, five years is provided for the warranty service.
+For the accessories such as chargers, cables, etc., from the date of purchase, one year is provided for the warranty service.
+Warranty period may vary by country and is subject to local laws and regulations.
+Warranty Statement
+Distributors are responsible for the service to customers, Free parts and technical support are provided by ROYPOW to our distributor
+- Nacci provides warranty under the following conditions:
+A
+The product is within the specified warranty period;
+B
+The product is normally used, without man-made quality problems;
+C
+No unauthorized disassembly, maintenance, etc;
+D
+Product serial number, factory label and other marks are not torn or altered.
+Exclusions of Warranty
+1. Products exceed the warranty period without purchasing a warranty extension;
+2. Damage caused by human abuse, including but not limited to cover deformation, collision caused by impact, drop, and puncture;
+3. Dismantle the battery without NACCI's authorization;
+4. Failure to work or being torn down in a harsh environment with high temperature, humidity, dust, corrosives and explosives, etc;
+5. Damage caused by short circuit;
+6. Damage caused by an unqualified charger that is not compliant with the product manual;
+7. Damage caused by force majeure, such as fire, earthquake, flood, hurricane, etc;
+8. Damage caused by improper installation not compliant with the product manual;
+9. Product without NACCI trademark / serial number.
+Claim Procedure
+1. Please priorly contact your dealer to verify the suspected defective device.
+2. Please follow your dealer's guide to provide sufficient information when your device is suspected faulty with the warranty card, product purchase invoice, and other related documents if required.
+3. Once the fault of your device is confirmed, your dealer is required to send the warranty claim to ROYPOW or an authorized service partner with all the necessary information provided.
+4. Meanwhile, you can contact NACCI for help via:
+Website
+www.naccius.com/support
+Email:
+nacci@naccisz.com
+Note:
+This warranty statement is only applicable to territory outside Mainland China. Please note that ROYPOW reserves the ultimate explanation right on this warranty statement.
+
+================ SOLUTIONS ================
+Lithium battery solutions
+Home
+Lithium battery solutions
+Lithium battery solutions
+NACCI focuses on the research and development of household lithium batteries, outdoor batteries, and electric vehicle batteries. Contact us via online message.
+Contact nacci
+Get to know nacci
+NACCI has been deeply involved in the lithium battery industry for over ten years, dedicated to lithium battery R&D, production, and sales, making it a comprehensive new energy company.
+Check
+Lithium battery solutions
+Lithium-ion battery technology has been widely used in various industries due to its advantages such as high energy density, long cycle life, compact structure, and reliable performance. Our lithium battery solutions are designed to meet the needs of modern energy systems.。
+View product
+nacci Lithium Battery Solutions Catalog
+Common battery specifications in our daily lives
+Residential Energy Storage Lithium Batteries
+Common Capacity Specifications
+5 kWh
+10 kWh
+15 kWh
+20 kWh
+30 kWh
+Portable Outdoor Energy Storage Lithium Batteries
+Common Capacity Specifications:
+500 Wh
+1000 Wh (1 kWh)
+1500 Wh
+2000 Wh (2 kWh)
+3000 Wh (3 kWh)
+5000 Wh (5 kWh)
+Industrial Energy Storage Lithium Batteries
+Common Capacity Specifications:
+50 kWh
+100 kWh
+215 kWh
+372 kWh
+500 kWh
+1 MWh
+2 MWh+
+EV Lithium Battery Systems
+Common Capacity Specifications:
+30 kWh
+40 kWh
+50 kWh
+60 kWh
+75 kWh
+100 kWh
+120 kWh
+150 kWh
+View directory
+Our battery showroom displays
+CONTACT US
+nacci knowledge base
+UPS Power Supply Guide 2026 — How It Works, Types & Specs Explained
+Best Lithium Battery in South Africa 2026 — Top Brands, Prices & Honest Reviews
+Lithium Battery Price in Pakistan 2026 — LiFePO4 Specs & Buying Guide
+Best Lithium Marine Batteries for Boats (2026) | Buyer’s Guide |
+24V LiFePO4 Akku: Kapazität, Anwendungen & Kaufratgeber (2026)
+30kW 50kWh & 50kW 100kWh Commercial Energy Storage | ISO Certified | NACCI
+
+================ PRODUCTS ================
+Products
+Home
+Products
+Product categories
+AGV Power Battery Series
+C& I ESS Series
+Lead Acid Replacement Series
+Residential ESS Series
+Telecom Battery Series
+UPS Battery Series
+Showing 1–24 of 28 results
+Show sidebar
+Show
+9
+12
+18
+24
+Default sorting
+Sort by popularity
+Sort by average rating
+Sort by latest
+Sort by price: low to high
+Sort by price: high to low
+AGV Power Battery Series-RPPB-APM1
+AGV Power Battery Series
+AGV Power Battery Series-RPPB-APM2
+AGV Power Battery Series
+C& IESS Series-RPCI-HVC1
+C& I ESS Series
+C& IESS Series-RPCI-HVC4
+C& I ESS Series
+C& IESS Series-RPCI-HVC5(RPT-ESS-01)
+C& I ESS Series
+C& IESS Series-RPCI-HVC6(LFP-30kW-50kWh)
+C& I ESS Series
+C& IESS Series-RPCI-HVC7(LFP-50kW-100kWh)
+C& I ESS Series
+Household Wheel-Mounted Battery Lithium Battery Solar Energy Storage 5.12kWh/10.24kWh/14.34kWh
+Residential ESS Series
+Lead Acid Replacement Series-RP-LAR
+Lead Acid Replacement Series
+Microstorage Series
+Residential ESS Series
+Nacci 192V50Ah Commercial Battery Storage Systems IP20 C&I Battery Storage
+C& I ESS Series
+Nacci 5120Wh Commercial & Industrial Energy Storage LiFePO4 Residential Battery Storage
+C& I ESS Series
+Nacci Battery 48V New Arrival Home Power Systems Lithium Ion Battery 25.6V/48V/51.2V Energy Storage Battery
+Residential ESS Series
+Nacci Battery 500V 6kW Home Energy Storage System Custom Simple Eco-friendly Stackable Can Communication
+Residential ESS Series
+Nacci Battery 51.2V New Home Wheeled Power System Lithium Ion 280Ah/300Ah/314Ah/345Ah Energy Storage Battery
+Residential ESS Series
+Nacci Battery 6KW Solar Inverter 51.2V 100AH LiFePO4 Lithium Battery for 6KW 5.12KWh All in One Home Energy Storage System
+Residential ESS Series
+Nacci Solar Home Li-Ion Battery Energy Storage Cube – 48V Series (Wall-Mounted)
+Residential ESS Series
+Nacci-Battery LifePo4 Battery 51.2V 5.12kWh/10kWh Lithium Battery Lithium Battery Pack for Solar Energy Storage System
+Residential ESS Series
+NACCI-Battery Solar Stackable Residential Home Use Lifepo4 Lithium Energy Storage 25.6V/51.2V 100Ah/200Ah Lifepo4 Battery Containers Cell
+Residential ESS Series
+Residential ESS Series-RPES-GMAIO2 (6KW PLUS-100AH)
+Residential ESS Series
+Residential ESS Series-RPES-GMAIO3 (12KW PLUS-300AH)
+Residential ESS Series
+Residential ESS Series-RPES-HVSM1
+Residential ESS Series
+Residential ESS Series-RPES-SM1
+Residential ESS Series
+Residential ESS Series-RPES-SMAIO2 (12KW PLUS-400AH)
+Residential ESS Series
+
+================ HOME ================
+NACCI Hero Slider
+NACCI lithium iron phosphate battery supplier
+nacci supports small-batch battery customization (ODM/OEM)
+View product
+-25°C
+NACCI lithium iron phosphate battery supplier
+nacci supports small-batch battery customization (ODM/OEM)
+View product
+NACCI lithium iron phosphate battery supplier
+nacci supports small-batch battery customization (ODM/OEM)
+View product
+Who Is NACCI
+NACCI focuses on lithium battery and solar energy solutions, delivering reliable packs and systems for global partners.
+Battery Manufacturing
+High-quality lithium and LiFePO₄ battery packs with stable performance.
+Solar Energy Storage
+Battery systems optimized for solar PV, off-grid and hybrid projects.
+Custom Solutions
+Tailored packs for RVs, ESS, industrial and light electric vehicles.
+Global Support
+NACCI serves international OEM and project customers with long-term service.
+Positive product
+Microstorage Series
+Residential ESS Series
+Nacci 5120Wh Commercial & Industrial Energy Storage LiFePO4 Residential Battery Storage
+C& I ESS Series
+Nacci Solar Home Li-Ion Battery Energy Storage Cube – 48V Series (Wall-Mounted)
+Residential ESS Series
+Household Wheel-Mounted Battery Lithium Battery Solar Energy Storage 5.12kWh/10.24kWh/14.34kWh
+Residential ESS Series
+View more
+FEATURED CATEGORIES
+AGV Power Battery Series
+Residential ESS Series
+C& I ESS Series
+Telecom Battery Series
+UPS Battery Series
+about Us
+About NACCI
+NACCI is a professional manufacturer focusing on
+Lithium Batteries
+,
+LiFePO4 Batteries
+,
+Solar Energy Storage
+, 
+      and
+EV Power Systems
+.
+With advanced production lines, strict quality control, and an experienced engineering team, 
+      we provide high-performance battery solutions for global industries. Our factory has achieved 
+      multiple certifications and continues to innovate in new energy technology.
+This video presents our facilities, R&D capability, automated production, and the commitment 
+      of our team to deliver safe, efficient, and reliable energy solutions.
+View More
+NACCI · FACTORY CERTIFICATIONS
+Innovative Small and Medium-Sized Enterprise
+Officially recognized as an innovative SME by the local government.
+NACCI is certified as an innovative small and medium-sized enterprise, which recognizes our continuous investment in R&D and product innovation in
+lithium-ion
+and
+LiFePO4 battery
+solutions. This certification highlights our capability to provide customized and technology-driven power solutions for global customers.
+• Focus: innovation capability, technology accumulation, and sustainable development
+• Application: supports long-term cooperation with partners in key industrial projects
+Previous
+Next
+Customized process and timeline estimation
+1.
+Battery specification communication (1-3 days)
+All detailed information is required, such as application, voltage, discharge current, charging current, IP protection rating, maximum casing size, etc. Finally, confirm the battery specifications.
+2.
+Design and Confirmation of Scheme Drawings (First Draft Requires 3 Days)
+The nacci engineering team will provide design drawings for your review and approval. We will make revisions based on any feedback you provide. We will provide three sets of design drawings free of charge.
+3.
+Prototyping/Mass Production (30 days)
+Production will proceed according to the final design drawings and will take approximately 30 days to complete.
+Client Cooperation Cases
+1. Technical Support – We provide expert advice on nacci battery product specifications, capacity, and installation methods.
+2. Replacement Policy – ​​If a quality issue is verified, we will immediately provide a replacement or remedy to minimize the impact on our customers.
+3. Rapid Response – Our professional after-sales team will respond to and resolve your inquiries within 24 hours.
+4. Ongoing Service – A dedicated account manager will follow up on user feedback and coordinate future orders.
+After-sales service
+At NACCI, our responsibility extends far beyond delivery. We offer a comprehensive after-sales service system to ensure the continued reliable operation of every NACCI battery order in your business. From technical guidance to problem-solving and replacement policies, we are committed to building long-term trust and partnerships with our customers.
+After-sales service
+News & Events
+07
+Jan
+Battery Information
+,
+Industry News
+,
+nacci blog
+Reduce battery costs
+Posted by
+nacci
+March 19, 2026
+How Small Battery Importers Can Reduce Cost by 20–30%					
+  Short Answer (If You Only Have One Minute to Read)
+  
+    If you are a sma...
+Continue reading
+11
+Jan
+Battery Information
+,
+nacci blog
+The difference between solar cells and grid-connected energy storage batteries
+Posted by
+nacci
+March 22, 2026
+Off Grid Solar Battery vs Grid-Tied Energy Storage: What Buyers Need to Know 
+					Before deciding to purchase off-grid solar cells, it...
+Continue reading
+17
+Jan
+Battery Information
+,
+nacci blog
+Commercial energy storage batteries
+Posted by
+nacci
+April 8, 2026
+January 17, 2026				
+				How to select the right energy storage battery system for a commercial project 
+					This article will systema...
+Continue reading
+22
+Jan
+Industry News
+What is a 10 kWh household battery? What are its applications?
+Posted by
+nacci
+January 22, 2026
+What is a 10 kWh home battery? What are the application scenarios for a 10 kWh battery? 
+				nacci 
+					Nacci Battery Co., Ltd. is a h...
+Continue reading
+24
+Jan
+Battery Information
+,
+nacci blog
+What Is a Battery Storage System and What Can It Be Used For?
+Posted by
+nacci
+February 12, 2026
+Battery energy storage systems are a way to store electrical energy and use it when needed. They can help individuals and businesses sa...
+Continue reading
+
