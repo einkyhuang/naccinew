@@ -813,7 +813,13 @@ function initHeroSlider() {
 
   function setSlide(index) {
     slides.forEach((slide, i) => {
-      slide.classList.toggle('active', i === index);
+      if (i === index) {
+        slide.classList.remove('active');
+        void slide.offsetWidth; // Force DOM reflow to re-trigger cinematic entrance animations
+        slide.classList.add('active');
+      } else {
+        slide.classList.remove('active');
+      }
     });
     pills.forEach((pill, i) => {
       pill.classList.toggle('active', i === index);
