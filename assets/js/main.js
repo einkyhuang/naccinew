@@ -804,7 +804,7 @@ function applyLanguage(lang) {
 // ==========================================================================
 function initHeroSlider() {
   const slides = document.querySelectorAll('.hero-slide');
-  if (!slides || slides.length === 0) return;
+  if (!slides || slides.length <= 1) return;
   
   let current = 0;
   setInterval(() => {
