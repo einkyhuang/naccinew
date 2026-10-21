@@ -800,18 +800,118 @@ function applyLanguage(lang) {
 }
 
 // ==========================================================================
-// 5. HERO CINEMATIC SLIDER
+// 5. HERO CINEMATIC SLIDER (Green Living ESS & Norvik Powerhouse Architecture)
 // ==========================================================================
+let currentHeroSlideIndex = 0;
+let heroSliderTimer = null;
+const HERO_SLIDE_DURATION = 7500;
+
 function initHeroSlider() {
-  const slides = document.querySelectorAll('.hero-slide');
-  if (!slides || slides.length <= 1) return;
-  
-  let current = 0;
-  setInterval(() => {
-    slides[current].classList.remove('active');
-    current = (current + 1) % slides.length;
-    slides[current].classList.add('active');
-  }, 6000);
+  const slides = document.querySelectorAll('.hero-carousel-slide');
+  const pills = document.querySelectorAll('.hero-slider-pill');
+  if (!slides.length || slides.length <= 1) return;
+
+  function setSlide(index) {
+    slides.forEach((slide, i) => {
+      slide.classList.toggle('active', i === index);
+    });
+    pills.forEach((pill, i) => {
+      pill.classList.toggle('active', i === index);
+      const fill = pill.querySelector('.pill-bar-fill');
+      if (fill) {
+        fill.style.transition = 'none';
+        fill.style.width = '0%';
+      }
+    });
+
+    currentHeroSlideIndex = index;
+    animateProgressBar(index);
+  }
+
+  function animateProgressBar(index) {
+    const activePill = pills[index];
+    if (!activePill) return;
+    const fill = activePill.querySelector('.pill-bar-fill');
+    if (!fill) return;
+
+    requestAnimationFrame(() => {
+      fill.style.transition = `width ${HERO_SLIDE_DURATION}ms linear`;
+      fill.style.width = '100%';
+    });
+  }
+
+  window.switchHeroSlide = function(index) {
+    if (index === currentHeroSlideIndex) return;
+    setSlide(index);
+    resetHeroTimer();
+  };
+
+  window.nextHeroSlide = function() {
+    const nextIdx = (currentHeroSlideIndex + 1) % slides.length;
+    setSlide(nextIdx);
+    resetHeroTimer();
+  };
+
+  window.prevHeroSlide = function() {
+    const prevIdx = (currentHeroSlideIndex - 1 + slides.length) % slides.length;
+    setSlide(prevIdx);
+    resetHeroTimer();
+  };
+
+  function startHeroTimer() {
+    stopHeroTimer();
+    heroSliderTimer = setInterval(() => {
+      const nextIdx = (currentHeroSlideIndex + 1) % slides.length;
+      setSlide(nextIdx);
+    }, HERO_SLIDE_DURATION);
+  }
+
+  function stopHeroTimer() {
+    if (heroSliderTimer) {
+      clearInterval(heroSliderTimer);
+      heroSliderTimer = null;
+    }
+  }
+
+  function resetHeroTimer() {
+    stopHeroTimer();
+    startHeroTimer();
+  }
+
+  // Initial state
+  setSlide(0);
+  startHeroTimer();
+
+  // Pause on hover
+  const heroSection = document.querySelector('.apple-hero');
+  if (heroSection) {
+    heroSection.addEventListener('mouseenter', stopHeroTimer);
+    heroSection.addEventListener('mouseleave', startHeroTimer);
+
+    // Touch swipe gesture for hero on mobile
+    let touchStartX = 0;
+    let touchStartY = 0;
+    heroSection.addEventListener('touchstart', (e) => {
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+      stopHeroTimer();
+    }, { passive: true });
+
+    heroSection.addEventListener('touchend', (e) => {
+      const touchEndX = e.changedTouches[0].clientX;
+      const touchEndY = e.changedTouches[0].clientY;
+      const dx = touchEndX - touchStartX;
+      const dy = touchEndY - touchStartY;
+      if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) {
+        if (dx < 0) {
+          window.nextHeroSlide();
+        } else {
+          window.prevHeroSlide();
+        }
+      }
+      startHeroTimer();
+    }, { passive: true });
+  }
 }
 
 // ==========================================================================

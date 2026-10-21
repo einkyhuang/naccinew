@@ -391,61 +391,161 @@
        2. FULL-SCREEN IMMERSIVE HERO SECTION (Reference Screenshot Layout)
        ========================================================================== -->
   <section class="apple-hero" id="home">
-    <div class="hero-slider-bg">
-      <div class="hero-slide active" style="background-image: url('assets/images/hero-green-energy-life.webp');"></div>
-    </div>
-    <div class="hero-overlay"></div>
+    <div class="hero-slider-track">
+      <!-- SLIDE 1: Green Living & Automotive-Grade LiFePO4 -->
+      <div class="hero-carousel-slide active" data-slide="0">
+        <div class="hero-slide-bg" style="background-image: url('assets/images/hero-green-energy-life.webp');"></div>
+        <div class="hero-overlay"></div>
 
-    <div class="hero-content">
-      <div class="hero-lead-box">
-        <div class="hero-eyebrow">
-          <span class="hero-eyebrow-dot"></span>
-          <span data-i18n="hero_eyebrow">TIER-1 LITHIUM & ENERGY STORAGE MANUFACTURING PARTNER</span>
+        <div class="hero-content">
+          <div class="hero-lead-box">
+            <div class="hero-eyebrow">
+              <span class="hero-eyebrow-dot"></span>
+              <span data-i18n="hero_eyebrow">TIER-1 LITHIUM & ENERGY STORAGE MANUFACTURING PARTNER</span>
+            </div>
+            
+            <h1 class="hero-title">
+              <span>Automotive-Grade LiFePO₄</span><br>
+              <span>Power & <span class="hero-highlight-word">Energy Storage.</span></span>
+            </h1>
+
+            <p class="hero-subtitle" data-i18n="hero_sub">
+              Engineering high-safety Lithium Iron Phosphate battery systems for residential solar microgrids, industrial peak shaving, automated AGV robotics, and critical telecom power.
+            </p>
+
+            <!-- 3-Button Center Action Group (Matching Reference Design) -->
+            <div class="hero-cta-group">
+              <button class="btn-hero-primary" onclick="openInquiryModal('Hero Quick RFQ', 'Direct Factory Price & Spec Sheet')">
+                <span data-i18n="btn_quote">Buying Inquiry</span>
+              </button>
+              
+              <button class="btn-hero-accent" onclick="openInquiryModal('OEM Custom Solution', 'Custom Battery Engineering')">
+                <span>Supply Cooperation</span>
+              </button>
+
+              <a href="#products" class="btn-hero-ghost">
+                <span data-i18n="btn_explore">Explore Our Business</span>
+              </a>
+            </div>
+          </div>
+
+          <!-- Reference Bottom Frosted Glass Dock Bar (Multi-Hub / Global Network Status) -->
+          <div class="hero-bottom-dock">
+            <div class="dock-left-col">
+              <div class="dock-badge-title">GLOBAL MANUFACTURING HUBS</div>
+              <div class="dock-main-val">Shenzhen HQ • Dongguan Base • 80,000 Pcs/Mo</div>
+            </div>
+
+            <div class="dock-center-text">
+              Direct bonded and non-bonded factory supply supporting fast 24h engineering consultation, custom CAD drawing, and SLA delivery across 15+ international markets.
+            </div>
+
+            <div class="dock-right-tags">
+              <span class="dock-tag-pill">LiFePO₄ Grade A</span>
+              <span class="dock-tag-pill">6,000+ Cycles</span>
+              <span class="dock-tag-pill">CAN / RS485</span>
+              <span class="dock-tag-pill">UL / IEC / CE</span>
+            </div>
+          </div>
         </div>
-        
-        <h1 class="hero-title">
-          <span>Automotive-Grade LiFePO₄</span><br>
-          <span>Power & <span class="hero-highlight-word">Energy Storage.</span></span>
+      </div>
+
+      <!-- SLIDE 2: Norvik Powerhouse Architecture (Reference /Users/ky/Desktop/Norvik-Powerhouse-Landing) -->
+      <div class="hero-carousel-slide norvik-slide" data-slide="1">
+        <img class="norvik-hero__bg" src="assets/images/norvik/hero.webp" alt="Norvik Powerhouse Cabin with solar roof and energy storage" fetchpriority="high">
+        <div class="norvik-hero__scrim"></div>
+
+        <h1 class="norvik-hero__title">
+          <span class="norvik-line"><span class="norvik-line__in">Norvik</span></span>
+          <span class="norvik-line"><span class="norvik-line__in">Powerhouse</span></span>
         </h1>
 
-        <p class="hero-subtitle" data-i18n="hero_sub">
-          Engineering high-safety Lithium Iron Phosphate battery systems for residential solar microgrids, industrial peak shaving, automated AGV robotics, and critical telecom power.
-        </p>
+        <img class="norvik-hero__cutout" src="assets/images/norvik/hero-cutout.webp" alt="" aria-hidden="true">
 
-        <!-- 3-Button Center Action Group (Matching Reference Design) -->
-        <div class="hero-cta-group">
-          <button class="btn-hero-primary" onclick="openInquiryModal('Hero Quick RFQ', 'Direct Factory Price & Spec Sheet')">
-            <span data-i18n="btn_quote">Buying Inquiry</span>
-          </button>
-          
-          <button class="btn-hero-accent" onclick="openInquiryModal('OEM Custom Solution', 'Custom Battery Engineering')">
-            <span>Supply Cooperation</span>
-          </button>
+        <div class="norvik-intro">
+          <h2 class="norvik-intro__head">
+            <span class="norvik-line"><span class="norvik-line__in">We shaped a stillness</span></span>
+            <span class="norvik-line"><span class="norvik-line__in">among the pines that</span></span>
+            <span class="norvik-line"><span class="norvik-line__in">renews</span></span>
+          </h2>
+          <div class="norvik-intro__body">
+            <p>Each stay is a quiet exchange<br>
+               of distance and warmth, arranged<br>
+               to bring you back to yourself.<br>
+               Powered by silent sun<br>
+               and stored resilience,<br>
+               unhurried and unbroken.</p>
+            <div class="norvik-intro__meta">
+              <span class="norvik-intro__year">{ 2026 }</span>
+              <a href="products/rpes-sm1.html" class="norvik-pill-cta">
+                <span>Explore PowerVault ESS</span>
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
 
-          <a href="#products" class="btn-hero-ghost">
-            <span data-i18n="btn_explore">Explore Our Business</span>
+        <div class="norvik-pins">
+          <figure class="norvik-pin norvik-pin--ridge">
+            <span class="norvik-pin__dot"></span>
+            <span class="norvik-pin__line"></span>
+            <div class="norvik-card">
+              <div class="norvik-card__thumb"><img src="assets/images/norvik/card-ridge.jpg" alt="Rooftop monocrystalline solar panels" loading="lazy"></div>
+              <figcaption class="norvik-card__text">
+                <h3>Monocrystalline<br>Solar Roof</h3>
+                <p>12.8 kWp integrated array.<br>High-yield solar capture.<br>Powering heat, light & life.</p>
+              </figcaption>
+            </div>
+          </figure>
+
+          <figure class="norvik-pin norvik-pin--baths">
+            <span class="norvik-pin__dot"></span>
+            <span class="norvik-pin__line"></span>
+            <div class="norvik-card">
+              <figcaption class="norvik-card__text">
+                <h3>PowerVault<br>Storage</h3>
+                <p>15 kWh LFP battery bank.<br>10 kW peak discharge.<br>24/7 off-grid resilience.</p>
+              </figcaption>
+              <div class="norvik-card__thumb"><img src="assets/images/norvik/card-baths.jpg" alt="Wall-mounted home energy storage battery unit" loading="lazy"></div>
+            </div>
+          </figure>
+        </div>
+
+        <div class="norvik-scroll">
+          <span class="norvik-scroll__label">keep going</span>
+          <a href="#products" class="norvik-scroll__btn" aria-label="Scroll down">
+            <span class="norvik-scroll__disc">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 4.4 V18.9 M5.6 12.4 L12 18.9 L18.4 12.4"/>
+              </svg>
+            </span>
           </a>
         </div>
       </div>
+    </div>
 
-      <!-- Reference Bottom Frosted Glass Dock Bar (Multi-Hub / Global Network Status) -->
-      <div class="hero-bottom-dock">
-        <div class="dock-left-col">
-          <div class="dock-badge-title">GLOBAL MANUFACTURING HUBS</div>
-          <div class="dock-main-val">Shenzhen HQ • Dongguan Base • 80,000 Pcs/Mo</div>
-        </div>
-
-        <div class="dock-center-text">
-          Direct bonded and non-bonded factory supply supporting fast 24h engineering consultation, custom CAD drawing, and SLA delivery across 15+ international markets.
-        </div>
-
-        <div class="dock-right-tags">
-          <span class="dock-tag-pill">LiFePO₄ Grade A</span>
-          <span class="dock-tag-pill">6,000+ Cycles</span>
-          <span class="dock-tag-pill">CAN / RS485</span>
-          <span class="dock-tag-pill">UL / IEC / CE</span>
-        </div>
+    <!-- Hero Slider Controls -->
+    <div class="hero-slider-controls">
+      <button class="hero-arrow-btn prev" onclick="prevHeroSlide()" aria-label="Previous slide">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <div class="hero-slider-pills">
+        <button class="hero-slider-pill active" onclick="switchHeroSlide(0)" aria-label="Slide 1">
+          <span class="pill-dot"></span>
+          <span class="pill-num">01</span>
+          <span class="pill-title">Green Living ESS</span>
+          <span class="pill-bar"><span class="pill-bar-fill"></span></span>
+        </button>
+        <button class="hero-slider-pill" onclick="switchHeroSlide(1)" aria-label="Slide 2">
+          <span class="pill-dot"></span>
+          <span class="pill-num">02</span>
+          <span class="pill-title">Norvik Powerhouse</span>
+          <span class="pill-bar"><span class="pill-bar-fill"></span></span>
+        </button>
       </div>
+      <button class="hero-arrow-btn next" onclick="nextHeroSlide()" aria-label="Next slide">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
     </div>
   </section>
 
