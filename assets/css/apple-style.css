@@ -45,7 +45,7 @@
   --glow-blue: 0 0 32px rgba(59, 130, 246, 0.15);
 
   /* Dimensions & Spacing */
-  --nav-height: 56px;
+  --nav-height: 68px;
   --radius-sm: 10px;
   --radius-md: 16px;
   --radius-lg: 22px;
@@ -165,22 +165,22 @@ button, input, select, textarea {
 }
 
 .brand-logo-img {
-  height: 28px;
+  height: 32px;
   width: auto;
   object-fit: contain;
   filter: none;
-  transition: filter 0.3s ease;
+  transition: filter 0.3s ease, height 0.3s ease;
 }
 
 .brand-badge {
-  font-size: 10px;
+  font-size: 10.5px;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--apple-blue);
   background: rgba(0, 113, 227, 0.08);
-  padding: 2px 7px;
-  border-radius: 4px;
+  padding: 3px 8px;
+  border-radius: 5px;
   border: 1px solid rgba(0, 113, 227, 0.18);
   transition: all 0.3s ease;
 }
@@ -197,7 +197,7 @@ button, input, select, textarea {
 
   display: flex;
   align-items: center;
-  gap: 3px;
+  gap: 4px;
   list-style: none;
   background: rgba(241, 245, 249, 0.88);
   backdrop-filter: blur(20px);
@@ -205,17 +205,17 @@ button, input, select, textarea {
   padding: var(--nav-pad);
   border-radius: var(--nav-menu-radius);
   border: 1px solid rgba(203, 213, 225, 0.8);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
   transition: all 0.35s ease;
 }
 
 .nav-link {
-  font-size: 13px;
+  font-size: 13.5px;
   font-weight: 500;
-  line-height: 20px;
+  line-height: 22px;
   color: #334155;
   letter-spacing: -0.01em;
-  padding: 5px 13px;
+  padding: 6px 14px;
   border: 1px solid transparent;
   border-radius: var(--nav-link-radius);
   position: relative;
@@ -613,8 +613,8 @@ button, input, select, textarea {
   color: #1e293b;
   cursor: pointer;
   padding: 8px;
-  width: 36px;
-  height: 36px;
+  width: 38px;
+  height: 38px;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -638,13 +638,13 @@ button, input, select, textarea {
 }
 
 .btn-quote {
-  font-size: 13px;
+  font-size: 13.5px;
   font-weight: 600;
-  line-height: 18px;
+  line-height: 20px;
   background: #0077ed;
   color: #ffffff;
-  padding: 8px 20px;
-  border-radius: 18px; /* height 36px -> radius 18px */
+  padding: 9px 22px;
+  border-radius: 20px; /* height 38px -> radius 19-20px */
   border: 1px solid rgba(255, 255, 255, 0.15);
   transition: all 0.25s var(--ease-apple);
   display: inline-flex;
@@ -5537,12 +5537,20 @@ button, input, select, textarea {
 
 /* 1. Mobile Header & Drawer Enhancements */
 @media (max-width: 992px) {
-  .nav-actions 
   .nav-actions .btn-quote {
     display: none !important;
   }
   .nav-actions {
     gap: 8px;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --nav-height: 60px;
+  }
+  .brand-logo-img {
+    height: 28px;
   }
 }
 
